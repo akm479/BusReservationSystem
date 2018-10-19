@@ -1,7 +1,8 @@
 Bus Reservation System
 
 What does the project do
-    There are two sections
+
+  There are two sections
     
        1.) Login as User
        
