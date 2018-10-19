@@ -18,5 +18,5 @@ What does the project do
 Steps to run the Project
             
               1.) Download the files in Folder named BusReservationSystem
-              2.) Run the .cpp file
+              2.) Run the .cpp file in editor which supports stoi(string to int conversion) function
               3.) CLI will open and you are good to go.
